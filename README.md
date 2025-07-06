@@ -1,0 +1,3 @@
+# Multidisease-Classificaation
+The project categorizes chest X-ray images into five classes COVID-19, Tuberculosis, Lung Disease, Pneumonia, and Others. Based on a hybrid Classical-Quantum Deep Learning model. The model blends Convolutional Neural Networks (CNN) for feature extraction and a Quantum Neural Network (QNN)The model was tested with accuracy, confusion matrix, and classification report.<br>
+ This project shows the effectiveness of quantum computing in medical diagnosis, presenting a more intelligent and effective way of early detection of lung-related diseases, which can even help in early treatment and minimize health burdens in society.
